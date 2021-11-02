@@ -5,8 +5,8 @@ var dimage,dhimage;
 function preload()
 {
 	//load images here
-  dimage=loadImage('images/dogImg.png');
-  dhimage=loadImage('images/dogImg1.png');
+  dimage=loadImage("images/dogImg.png");
+  dhimage=loadImage("images/dogImg1.png");
   
 }
 
